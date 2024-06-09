@@ -35,7 +35,7 @@ Open API documentation will be appreciated.
 - `FLUSH PRIVILEGES;`
 
 # Deployment
-- `git clone`  TODO: add the actual repo later
+- `git clone https://github.com/EgorBereza/CourseApi.git`
 - `composer install`
 - `php artisan migrate --seed`
 - `php artisan serve` 
