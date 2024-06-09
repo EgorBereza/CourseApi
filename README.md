@@ -4,13 +4,13 @@ You have to build a CRUD API for the resource Course. The resource should be pub
 accessible, without any relationship.
 
 Course database table should have:
-● id
-● title
-● description
-● status (Published,Pending)
-● is_premium
-● created_at
-● deleted_at
+- id
+- title
+- description
+- status (Published,Pending)
+- is_premium
+- created_at
+- deleted_at
 
 You should provide database migrations for the schema.
 
