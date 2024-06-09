@@ -38,7 +38,7 @@ Open API documentation will be appreciated.
 - `git clone https://github.com/EgorBereza/CourseApi.git`
 - `composer install`
 - `php artisan migrate --seed`
-- `php artisan serve` (not need if Laravel herd is used)
+- `php artisan serve` (not needed if Laravel herd is used)
 
 # Run Tests
 - `php artisan test`
